@@ -1,0 +1,25 @@
+{
+  "name": "react-chaffle",
+  "version": "0.1.0",
+  "description": "Chaffle inspired component.",
+  "main": "index.js",
+  "scripts": {
+    "build" : "babel src -d dist/",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dolchi21/react-chaffle.git"
+  },
+  "keywords": [
+    "react",
+    "chaffle",
+    "random"
+  ],
+  "author": "Axel Dolce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dolchi21/react-chaffle/issues"
+  },
+  "homepage": "https://github.com/dolchi21/react-chaffle#readme"
+}
